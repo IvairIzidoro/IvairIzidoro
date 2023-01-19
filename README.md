@@ -1,7 +1,6 @@
 ### Olá, Sou o Ivair Izidoro 👋
 
 
-
 - 🔭 Em busca da minha primeira oportunidade como Programador ...
 - 🌱 Atualmente tenho estudado sobre PHP, HTML, CSS e Javascrip ...
 - 📫 Contacte - me no email: ivair.dev@gmail.com
